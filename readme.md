@@ -1,5 +1,9 @@
 # TITAN: Tech-based Interactive Task & Assistant Network
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83d9def8-6d93-480e-bba9-570faed3dc77">
+</p>
+  
 TITAN is a voice assistant that can perform various tasks such as answering questions, providing weather updates, fetching news, and more. It utilizes speech recognition, NLP, and API integrations to enhance user interactions.
 
 ## Features
