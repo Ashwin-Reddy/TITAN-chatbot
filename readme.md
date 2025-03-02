@@ -46,13 +46,10 @@ TITAN will greet you and wait for voice commands. You can ask for weather update
 - "Who is the president of the United States?"
 - "Exit" (to stop the assistant)
 
-## Contributing
-Feel free to submit issues or contribute by making pull requests.
-
 ## License
 This project is licensed under the MIT License.
 
-## Acknowledgments
+## Acknowledgements
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 - [PyAudio](https://pypi.org/project/PyAudio/)
 - [Google Generative AI](https://ai.google.dev/)
