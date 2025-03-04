@@ -2,7 +2,6 @@
 # TITAN is a voice assistant that can perform various tasks such as answering questions, providing weather updates, fetching news, etc.#
 
 import speech_recognition as sr
-import pyaudio
 import pyttsx3
 from google import genai
 import requests
