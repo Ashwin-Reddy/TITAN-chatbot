@@ -15,10 +15,10 @@ engine.setProperty("rate", 170)     # Adjust voice speed
 nlp = spacy.load('en_core_web_sm')
 
 # Gemini API key
-client = genai.Client(api_key="AIzaSyAsewzyDvG40BeEpLTpg6eGqDwaJGekyJc")
+client = genai.Client(api_key="YOUR API KEY HERE")
 
 # News API key
-NEWS_API_KEY = "0d00007d9dfc4f9090ca1d859ffaa81b"
+NEWS_API_KEY = "YOUR API KEY HERE"
 
 # Make bot speak
 def speak(text):
